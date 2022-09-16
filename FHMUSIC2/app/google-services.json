@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58437195894",
+    "project_id": "fhmusic-bb647",
+    "storage_bucket": "fhmusic-bb647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58437195894:android:2cef984ddfbcfd28b72757",
+        "android_client_info": {
+          "package_name": "com.fuathuriyetoglu.fhmusic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58437195894-hk1eknm44br603e4uu3fc6h0qfe1vpss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-IXfRN0pvGtAFgOxH66iKqymzBW6IPCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58437195894-hk1eknm44br603e4uu3fc6h0qfe1vpss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

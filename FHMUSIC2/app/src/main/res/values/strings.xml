@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FHMUSIC</string>
+    <string name="sign_up">Sıgn up</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="signout">Signout</string>
+</resources>
